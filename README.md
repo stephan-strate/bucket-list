@@ -11,34 +11,63 @@ My personal list (in no particular order) of things I would like to achieve or e
 * :ticket: [Events](#events)
 * :man_technologist: [Career](#career)
 
-## :earth_africa: Traveling
+## Traveling
 
-### :car: Road trips
+:earth_africa: Traveling around the world, places and cities I want to see.
+
+### Road trips
+
+:car:
 
 - [ ] Sweden
 - [ ] Italy
+- [ ] United States of America
   
-### :cityscape:	Cities/Regions
+###	Cities/Regions
+
+:cityscape:
 
 #### Israel
+
 - [X] Jerusalem
   
 #### Italy
 
 - [X] Florence
+- [ ] Rome
 
-### :statue_of_liberty: Sightseeing
+#### United Kingdom
 
-## :ticket: Events
+- [X] London
+
+#### United States of America
+
+- [ ] New York
+- [ ] Florida
+- [ ] Las Vegas (losing money :money_with_wings:)
+
+### Sightseeing
+
+:statue_of_liberty:
+
+## Events
+
+:ticket:
 
 - [ ] Blue Man Group ([ref](https://www.stage-entertainment.de/musicals-shows/blue-man-group-berlin))
 - [ ] Harry Potter and the Cursed Child ([ref](https://www.harry-potter-theater.de/))
 - [X] Cirque du Soleil Paramour ([ref](https://www.cirquedusoleil.com/paramour))
 - [ ] Cirque du Soleil Nysa ([ref](https://www.cirquedusoleil.com/nysa))
-- [ ] Cirque du Soleil Totem ([ref](https://www.cirquedusoleil.com/totem))
+- [X] Cirque du Soleil Totem ([ref](https://www.cirquedusoleil.com/totem))
 
-## :man_technologist: Career
+## Career
+
+:man_technologist:
+
+- [X] Bachelor's degree in Applied Computer Science
+- [ ] Master's degree
+- [ ] Work for an international company
 
 ## Credits
 
-Emoji credits: https://github.com/ikatyang/emoji-cheat-sheet
+Emojis: https://github.com/ikatyang/emoji-cheat-sheet
