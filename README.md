@@ -4,12 +4,19 @@ My personal list (in no particular order) of things I would like to achieve or e
 
 ## Table of contents
 
+* :sparkles: [Activities](#activities)
 * :earth_africa: [Traveling](#traveling)
   * :car: [Road trips](#road-trips)
   * :cityscape:	[Cities/Regions](#cities-regions)
   * :statue_of_liberty: [Sightseeing](#sightseeing)
 * :ticket: [Events](#events)
 * :man_technologist: [Career](#career)
+
+## Activities
+
+:sparkles:
+
+- [ ] Professionell photo course
 
 ## Traveling
 
