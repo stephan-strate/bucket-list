@@ -64,7 +64,7 @@ My personal list (in no particular order) of things I would like to achieve or e
 - [ ] Blue Man Group ([ref](https://www.stage-entertainment.de/musicals-shows/blue-man-group-berlin))
 - [ ] Harry Potter and the Cursed Child ([ref](https://www.harry-potter-theater.de/))
 - [X] Cirque du Soleil Paramour ([ref](https://www.cirquedusoleil.com/paramour))
-- [ ] Cirque du Soleil Nysa ([ref](https://www.cirquedusoleil.com/nysa))
+- [ ] ~~Cirque du Soleil Nysa ([ref](https://www.cirquedusoleil.com/nysa))~~
 - [X] Cirque du Soleil Totem ([ref](https://www.cirquedusoleil.com/totem))
 
 ## Career
@@ -74,6 +74,8 @@ My personal list (in no particular order) of things I would like to achieve or e
 - [X] Bachelor's degree in Applied Computer Science
 - [ ] Master's degree
 - [ ] Work for an international company
+- [ ] Win Hackathon
+- [ ] Learn Rust
 
 ## Credits
 
